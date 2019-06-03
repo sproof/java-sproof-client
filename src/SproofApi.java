@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof;
+package io.sproof;
 
 import at.ac.fhsalzburg.sproof.model.Profile;
 import at.ac.fhsalzburg.sproof.model.events.ProfileConfirm;

@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof;
+package io.sproof;
 
 import io.socket.client.Socket;
 import org.bitcoinj.wallet.UnreadableWalletException;

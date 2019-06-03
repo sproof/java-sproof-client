@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof.model.events;
+package io.sproof.model.events;
 
 import at.ac.fhsalzburg.sproof.model.Document;
 import lombok.AllArgsConstructor;

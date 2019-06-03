@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof.model;
+package io.sproof.model;
 
 import at.ac.fhsalzburg.sproof.SproofHttpException;
 import org.ethereum.core.Transaction;

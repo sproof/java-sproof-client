@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof.model.events;
+package io.sproof.model.events;
 
 import org.json.simple.JSONObject;
 
